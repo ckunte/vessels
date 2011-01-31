@@ -1,47 +1,57 @@
-Crane Barge, Region, Type, Operator, Capacity Fixed (in Metric tons), Capacity Revolving (in Metric tons), Dynamic Positioning
-Asian Hercules, Singapore, Sheerleg cranes, Asian lift, 1600, NA, N
-Asian Hercules II, Singapore,Sheerleg cranes, Asian lift, 3200, NA, N 
-MDL, South Asia, Derrick Lay Barge, MDL Energy, 2000, 1200, N
-Mushashi, Southeast Asia, Sheerleg cranes, Fukada, 3600, NA, N
-Fuji, Southeast Asia, Sheerleg cranes, Fukada, 3000, NA, N
-Suruga, Southeast Asia, Sheerleg cranes, Fukada, 2200, NA, N
-Kaisho, Southeast Asia, Sheerleg cranes, Yorigami, 4100, NA, N
-Shinkiryu, Southeast Asia, Sheerleg cranes, Yorigami, 3600, NA, N
-Samsung #1, Southeast Asia, Sheerleg cranes, Samsung Heavy Industries, 3000, NA, N
-Samsung #2, Southeast Asia, Sheerleg cranes, Samsung Heavy Industries, 3600, NA, N
-Rambiz, Southeast Asia, Sheerleg cranes, Scaldis, 3300, NA, N
-DLBKP1, Southeast Asia, Derrick Lay Barge, J Ray McDermott, 598, 544, N
-DB26, Southeast Asia, Derrick Lay Barge, J Ray McDermott, 816, 727, N
-DB30, Southeast Asia / Middle East, Derrick Barge, J Ray McDermott, 2794, 2086, N
-DLBSemiNle, Southeast Asia, Derrick Lay Barge, Global Industries, 703, 589, N
-DLB264, Southeast Asia, Derrick Lay Barge, Global Industries, 997, 725, N
-DLB332, Southeast Asia, Derrick Lay Barge, Global Industries, 725, 544, N
-Kuroshio-I, Southeast Asia, Derrick Barge, Nippon Steel Corporation (OGP), 2272, 1818, N
-Kuroshio-II, Southeast Asia, Derrick Barge, Nippon Steel Corporation (OGP), 725, 725, N
-HD-2500, Southeast Asia, Derrick Lay Barge, Hyundai Heavy Industries, 2267, 1451, N
-HD-60 (DB 60), Southeast Asia, Derrick Lay Barge, Hyundai Heavy Industries, 1632, 1578, N
-Castoro Otto, Worldwide, Derrick Barge, Saipem, 2177, 1814, N
-S-3000, Worldwide, Derrick Barge, Saipem, 2177, 1814, Y
-S-7000, Worldwide, Semi-Submersible Crane Vessel, Saipem, 14000, 14000, Y
-Pacific Horizon, Southeast Asia, Derrick Lay Barge, Horizon Offshore, 725, 635, N
-Sea Horizon, Southeast Asia, Derrick Lay Barge, Horizon Offshore, 1090, 568, N
-Lan Jiang, Southeast Asia, Derrick Barge, CNOC, 3800, 2500, N
-Sapura 3000, Southeast Asia, Derrick Barge, Acergy, 3000, 2000, Y
-Hermod, Worldwide, Semi-Submersible Crane Vessel, Heerema Marine Contractors, 8163, 7256, N
-Balder, Worldwide, Semi-Submersible Crane Vessel, Heerema Marine Contractors, 6300, 5000, Y
-Thialf, Worldwide, Semi-Submersible Crane Vessel, Heerema Marine Contractors, 14000, 14000, Y
-Stanislav Yudin, Worldwide, Derrick Barge, Seaway Heavy Lifting, 2500, 2500, N
-HLS2000, Middle East, Derrick Barge, NPCC, 2000, 1600, N
-DLB1000, Middle East, Derrick Lay Barge, NPCC, 1152, 750, N
-DB27, Middle East, Derrick Lay Barge, J Ray McDermott, 2177, 1270, N
-Navajo, Middle East, Derrick Lay Barge, Global Industries, 137, 137, N
-Tonkowa, Middle East, Derrick Lay Barge, Global Industries, 158, 158, N
-Abouzar 1200, Middle East, Derrick Barge, IOEC, 1088, 977, N
-C Master (former Jascon 5), Middle East, Derrick Lay Barge, IOEC, 800, 800, Y
-Hercules, West Africa, Derrick Lay Barge, Global Industries, 1814, 1451, Y
-Comanche, West Africa, Derrick Lay Barge, Global Industries, 907, 748, N
-Cheyenne, West Africa, Derrick Lay Barge, Global Industries, 727, 590, N
-Seaway Polaris, West Africa, Derrick Lay Barge, Acergy, 1360, 1360, Y
-DB-101, Gulf of Mexico, Derrick Barge, J Ray McDermott, 3175, 2449, N
-DB-50, Gulf of Mexico, Derrick Barge, J Ray McDermott, 3991, 3199, Y
-DB-16, Gulf of Mexico, Derrick Barge, J Ray McDermott, 780, 544, Y
+Crane Barge,Region,Type,Owner / Operator,Capacity Fixed (MT),At radius (m),Capacity (Rotating),Radius (m),DP,Class
+Abouzar 1200,Middle East,Derrick Barge,IOEC,1088,TBA,977,TBA,N,
+Acergy Polaris,West Africa,Derrick Lay Barge,Acergy,1306,30.5,997,36,Y,DP3
+Aegir,Worldwide,Derrick Lay Barge,Heerema Marine Contractors,4000,TBA,TBA,TBA,TBA,
+Asian Hercules,Singapore,Sheerleg cranes,Asian lift,1600,TBA,NA,TBA,N,
+Asian Hercules II,Singapore,Sheerleg cranes,Asian lift,3200,TBA,NA,TBA,N ,
+Atlantic Horizon,SE Asia,Derrick Lay Barge,Cal Dive,907,24,907,24,N,
+Balder,Worldwide,Semi-Submersible Crane Vessel,Heerema Marine Contractors,6300,TBA,5000,TBA,Y,DP3
+Borealis,Worldwide,Derrick Lay Barge,Acergy,4000,78,1500,34,Y,DP3
+C Master (former Jascon 5),Middle East,Derrick Lay Barge,IOEC,800,TBA,800,TBA,Y,
+Castoro Otto,Worldwide,Derrick Barge,Saipem,2177,TBA,1814,TBA,N,
+Cherookee,West Africa,Derrick Lay Barge,Global Industries,839,24,544,21,N,
+Cheyenne,West Africa,Derrick Lay Barge,Global Industries,727,TBA,590,TBA,N,
+Comanche,West Africa,Derrick Lay Barge,Global Industries,907,TBA,748,TBA,N,
+CRAWLER,,Derrick Lay Barge,Saipem,546,23,546,23,N,
+DB-101,Gulf of Mexico,Derrick Barge,J Ray McDermott,3175,TBA,2449,TBA,N,
+DB-16,Gulf of Mexico,Derrick Barge,J Ray McDermott,780,TBA,544,TBA,Y,DP2
+DB26,SE Asia,Derrick Lay Barge,J Ray McDermott,816,TBA,727,TBA,N,
+DB27,Middle East,Derrick Lay Barge,J Ray McDermott,2177,TBA,1270,TBA,N,
+DB30,SE Asia / Mid East,Derrick Barge,J Ray McDermott,2794,TBA,2086,TBA,N,
+DB-50,Gulf of Mexico,Derrick Barge,J Ray McDermott,3991,TBA,3199,TBA,Y,DP2
+DLB1000,Middle East,Derrick Lay Barge,NPCC,1152,TBA,750,TBA,N,
+DLB264,SE Asia,Derrick Lay Barge,Global Industries,997,TBA,725,TBA,N,
+DLB332,SE Asia,Derrick Lay Barge,Global Industries,725,TBA,544,TBA,N,
+DLBKP1,SE Asia,Derrick Lay Barge,J Ray McDermott,598,TBA,544,TBA,N,
+DLBSemiNle,SE Asia,Derrick Lay Barge,Global Industries,703,TBA,589,TBA,N,
+Fuji,SE Asia,Sheerleg cranes,Fukada,3000,TBA,NA,TBA,N,
+Hai Yang Shi You 201,SE Asia,Derrick Lay Barge,CNOOC,4000,43,3500,33,Y,DP3
+HD-2500,SE Asia,Derrick Lay Barge,Hyundai Heavy Industries,2267,TBA,1451,TBA,N,
+HD-60 (DB 60),SE Asia,Derrick Lay Barge,Hyundai Heavy Industries,1632,TBA,1578,TBA,N,
+Hercules,West Africa,Derrick Lay Barge,Global Industries,1814,TBA,1451,TBA,Y,DP2
+Hermod,Worldwide,Semi-Submersible Crane Vessel,Heerema Marine Contractors,8163,TBA,7256,TBA,N,
+HLS2000,Middle East,Derrick Barge,NPCC,2000,TBA,1600,TBA,N,
+IROQUOIS,West Africa,Derrick Lay Barge,Global Industries,226,24,226,24,N,
+Kaisho,SE Asia,Sheerleg cranes,Yorigami,4100,TBA,NA,TBA,N,
+Kuroshio-I,SE Asia,Derrick Barge,Nippon Steel Corporation (OGP),2272,TBA,1818,TBA,N,
+Kuroshio-II,SE Asia,Derrick Barge,Nippon Steel Corporation (OGP),725,TBA,725,TBA,N,
+Lan Jiang,SE Asia,Derrick Barge,CNOOC,3800,TBA,2500,TBA,N,
+Lewek Champion,SE Asia,Derrick Lay Barge,Ezra Holdings,800,30,NA,TBA,Y,DP2
+LTS 3000,South Asia,Derrick Lay Barge,Larson and Tubro / Sapura Crest,2721,31,1995,31,N,
+MDL,South Asia,Derrick Lay Barge,MDL Energy,2000,TBA,1200,TBA,N,
+Mushashi,SE Asia,Sheerleg cranes,Fukada,3600,TBA,NA,TBA,N,
+Navajo,Middle East,Derrick Lay Barge,Global Industries,137,TBA,137,TBA,N,
+Pacific Horizon,SE Asia,Derrick Lay Barge,Cal Dive,725,TBA,635,TBA,N,
+Rambiz,SE Asia,Sheerleg cranes,Scaldis,3300,TBA,NA,TBA,N,
+S-3000,Worldwide,Derrick Barge,Saipem,2177,TBA,1814,TBA,Y,DP3
+S-7000,Worldwide,Semi-Submersible Crane Vessel,Saipem,14000,TBA,14000,TBA,Y,DP3
+Samsung #1,SE Asia,Sheerleg cranes,Samsung Heavy Industries,3000,TBA,NA,TBA,N,
+Samsung #2,SE Asia,Sheerleg cranes,Samsung Heavy Industries,3600,TBA,NA,TBA,N,
+Sapura 3000,SE Asia,Derrick Barge,Acergy,3000,TBA,2000,TBA,Y,DP2
+Sea Horizon,SE Asia,Derrick Lay Barge,Cal Dive,1090,TBA,568,TBA,N,
+Shinkiryu,SE Asia,Sheerleg cranes,Yorigami,3600,TBA,NA,TBA,N,
+Stanislav Yudin,Worldwide,Derrick Barge,Seaway Heavy Lifting,2500,TBA,2500,TBA,N,
+Suruga,SE Asia,Sheerleg cranes,Fukada,2200,TBA,NA,TBA,N,
+Thialf,Worldwide,Semi-Submersible Crane Vessel,Heerema Marine Contractors,14000,TBA,14000,TBA,Y,DP3
+Titan 2,West Africa,Derrick Lay Barge,Global Industries,800,38,NA,TBA,Y,DP2
+Tonkowa,Middle East,Derrick Lay Barge,Global Industries,158,TBA,158,TBA,N,
